@@ -194,17 +194,14 @@ __**🌷 𝐁𝐢𝐤𝐚𝐬𝐡 𝐕𝐢𝐝𝐞𝐨 𝐓𝐫𝐚𝐜𝐤 𝐈
         if config.START_IMG_URL:
             try:
                 await message.reply_photo(
-        photo=f"https://te.legra.ph/file/99d0261f0aa5512ad6753.png",
+        photo=f"https://telegra.ph/file/2613fbbf52f7cbfabc11f.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [DESAI](https://t.me/DESAI_01)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [GROUP](https://t.me/BEST_FRIENDS_CHATTING_000)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -229,17 +226,14 @@ __**🌷 𝐁𝐢𝐤𝐚𝐬𝐡 𝐕𝐢𝐝𝐞𝐨 𝐓𝐫𝐚𝐜𝐤 𝐈
                   )
             except:
                 await message.reply_photo(
-        photo=f"https://te.legra.ph/file/99d0261f0aa5512ad6753.png",
+        photo=f"https://telegra.ph/file/2613fbbf52f7cbfabc11f.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [DESAI](https://t.me/DESAI_01)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [GROUP](https://t.me/BEST_FRIENDS_CHATTING_000)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -264,17 +258,14 @@ __**🌷 𝐁𝐢𝐤𝐚𝐬𝐡 𝐕𝐢𝐝𝐞𝐨 𝐓𝐫𝐚𝐜𝐤 𝐈
               )
         else:
             await message.reply_photo(
-        photo=f"https://te.legra.ph/file/99d0261f0aa5512ad6753.png",
+        photo=f"https://telegra.ph/file/2613fbbf52f7cbfabc11f.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐁𝐢𝐤𝐚𝐬𝐡 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/BikashHalder)
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫](https://t.me/AdityaHalder)
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : [𝐁𝐠𝐭 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥](https://t.me/BikashGadgetsTech)
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : [𝐁𝐠𝐭 𝐂𝐡𝐚𝐭](https://t.me/Bgt_Chat)
-┣★ 𝐂𝐡𝐚𝐭𓂸 » : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐃𝐢𝐬𝐜𝐮𝐬](https://t.me/AdityaDiscus)
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : [DESAI](https://t.me/DESAI_01)
+┣★ 𝐂𝐡𝐚𝐭𓂸 » : [GROUP](https://t.me/BEST_FRIENDS_CHATTING_000)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
